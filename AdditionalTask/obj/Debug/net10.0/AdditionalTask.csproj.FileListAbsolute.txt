@@ -1,0 +1,15 @@
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\bin\Debug\net10.0\AdditionalTask.exe
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\bin\Debug\net10.0\AdditionalTask.deps.json
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\bin\Debug\net10.0\AdditionalTask.runtimeconfig.json
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\bin\Debug\net10.0\AdditionalTask.dll
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\bin\Debug\net10.0\AdditionalTask.pdb
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.AssemblyInfoInputs.cache
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.AssemblyInfo.cs
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.sourcelink.json
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.dll
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\refint\AdditionalTask.dll
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.pdb
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\AdditionalTask.genruntimeconfig.cache
+C:\Users\ganga\RiderProjects\AdditionalTask\AdditionalTask\obj\Debug\net10.0\ref\AdditionalTask.dll
